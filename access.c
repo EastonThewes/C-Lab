@@ -1,7 +1,7 @@
-#include "file.h"
+#include "files.h"
 int main() {
     
-    initFiles();
+    init_files();
 
     return 0;
 }
